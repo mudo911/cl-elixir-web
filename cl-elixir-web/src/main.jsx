@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
-import { Search, Instagram, MessageCircle, Sparkles } from 'lucide-react';
+import { Search, MessageCircle, Sparkles } from 'lucide-react';
 import './style.css';
 
 const WHATSAPP = '526671234567'; // CAMBIA este número por el tuyo con lada. Ejemplo: 526671234567
