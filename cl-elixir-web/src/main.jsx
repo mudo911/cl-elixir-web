@@ -68,7 +68,7 @@ function App(){
       <p>Fragancias seleccionadas en presentaciones de 3ml, 5ml y 10ml. Prueba, enamórate y elige tu aroma ideal.</p>
       <div className="actions">
         <a className="btn primary" href={waLink('Hola CL ELIXIR, quiero informes de un decant')} target="_blank"><MessageCircle size={18}/> Pedir por WhatsApp</a>
-        <a className="btn secondary" href={`https://instagram.com/${INSTAGRAM}`} target="_blank"><Instagram size={18}/> @{INSTAGRAM}</a>
+        <a className="btn secondary" href={`https://instagram.com/${INSTAGRAM}`} target="_blank">@{INSTAGRAM}</a>
       </div>
     </header>
 
