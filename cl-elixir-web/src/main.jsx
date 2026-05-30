@@ -1,3 +1,4 @@
+import logo from './logo-cl-elixir.png';
 import React, { useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Search, MessageCircle, Sparkles } from 'lucide-react';
